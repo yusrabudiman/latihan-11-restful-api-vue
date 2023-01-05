@@ -1,0 +1,28 @@
+{
+  "name": "m11-vue-restful-api",
+  "version": "1.0.0",
+  "description": "language = vue js, express.js, node.js | npm install (build in middleware) => init, body-parser, nodemon, mysql2, cors",
+  "main": "index.js",
+  "scripts": {
+    "test": "rest api err",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "latihan-11-vue-restful-api"
+  },
+  "keywords": [
+    "restful",
+    "api",
+    "vue"
+  ],
+  "author": "hey yo you",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20"
+  }
+}

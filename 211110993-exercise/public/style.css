@@ -1,0 +1,23 @@
+/*github latihan-6-Basic-Routing*/
+html{
+    background: rgb(3,18,176);
+    background: linear-gradient(130deg, rgba(3,18,176,1) 5%, rgba(147,127,5,1) 51%,  rgba(136,0,0,1) 99%);
+    background-attachment: fixed;
+}
+::-webkit-scrollbar{
+    width: .1px;
+    height: .1px;
+    background-color: #00000000;
+}
+.field input::placeholder {
+    color: #7f7f7f!important;
+    font-size: medium;
+    font-weight: 400;
+}
+.field input{
+    font-size: large;
+    font-weight: 700;
+}
+.field label{
+    color: white;
+}
